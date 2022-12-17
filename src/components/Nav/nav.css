@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #101418;
+}
+nav img{
+    padding: 0.2rem 1rem;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+ul li{
+    padding: 1rem;
+    margin: 0 1rem;
+}
+nav ul a {
+    text-decoration: none;
+    color: #FFFFCC;
+}
+button{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 13rem;
+    padding: 1rem;
+    font-size: 1.4rem;
+    color: #FFFFFF;
+    background-color: #A08040;
+    outline: none;
+    border: none;
+}
+button hr{
+    width: 1.7rem;
+    border: transparent;
+    border-bottom: 2px solid #FFFFFF;
+}

@@ -1,0 +1,9 @@
+.readBut{
+    display: flex;
+    justify-content: center;
+    padding: 1rem 2rem;
+    border:1px solid #FFFCCC;
+    background-color: transparent;
+    font-size: 1.3rem;
+    margin: 2rem 0;
+}
