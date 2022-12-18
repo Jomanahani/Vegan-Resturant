@@ -4,8 +4,8 @@
     /* display: flex; */
 }
 .Explanation h2{
-    color: #FFCE6D;
     font-family: 'Dancing Script', cursive;
+    color: #FFCE6D;
     font-size: 2.2rem;
 }
 .Explanation h3{
