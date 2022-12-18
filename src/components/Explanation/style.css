@@ -1,0 +1,23 @@
+.Explanation{
+    color:#fffffc;
+    padding: 1rem 2rem;
+    /* display: flex; */
+}
+.Explanation h2{
+    color: #FFCE6D;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.2rem;
+}
+.Explanation h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    line-height: 1.2;
+}
+.Explanation p{
+    font-family: 'Roboto', sans-serif;
+    padding: 1rem 5rem 0.5rem 0;
+    font-size: 1rem;
+    line-height: 2;
+
+}
