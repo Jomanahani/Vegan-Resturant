@@ -1,0 +1,23 @@
+.special{
+    background-color: rgba(16, 20, 24, 0.7);
+}
+.special h2{
+    text-align: center;
+    font-size: 2.2rem;
+    color: #FFCE6D;
+    font-family: 'Dancing Script', cursive;
+    padding: 1.5rem 0;
+}
+.special h3{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFC;
+    text-align: center;
+    padding-bottom: 2rem ;
+}
+.cardContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    margin: 0 auto;
+}

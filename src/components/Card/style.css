@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color: #ffce6d30;
+    border: 1px dotted #FFCE6D;
+    height: 30rem;
+    width: 23rem;
+    margin: 1rem 2.5rem;
+    margin-bottom: 3rem;
+}
+.card img{
+    height: 5rem;
+    width: 5rem;
+    margin: 1.5rem auto;
+}
+.card h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+}
+.card p{
+    padding: 0.5rem 2.5rem;
+    text-align: justify;
+    font-size: 1rem;
+}
