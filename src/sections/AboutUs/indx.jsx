@@ -1,6 +1,4 @@
 import React from 'react'
-import Explanation from '../../components/Explanation'
-// import './style.css'
 import imge from '../../assets/about.png'
 import AboutSec from '../../components/AboutSec'
 

@@ -1,5 +1,6 @@
 import React from 'react'
 import Meal from '../../components/Meal'
+import Title from '../../components/Title';
 import item1 from '../../assets/item1.png';
 import item2 from '../../assets/item2.png';
 import item3 from '../../assets/item3.png';
@@ -11,8 +12,7 @@ import './style.css'
 function Menu() {
   return (
     <section className='menu'>
-        <h3>Straight From Kitchen</h3>
-        <h4>Our Menu</h4>
+      <Title title='Straight From Kitchen' supTitle='Our Menu'/>
         <div className='menuContainer'>
             <div>
                 <Meal img={item1} Name='Lorem ipsum dolor sit amet' price='Rs 222'/>
