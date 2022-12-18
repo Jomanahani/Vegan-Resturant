@@ -1,0 +1,7 @@
+.featuresSec{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5rem 13rem;
+    background-color: rgba(16, 20, 24, 0.7);
+}

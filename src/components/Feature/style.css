@@ -1,0 +1,18 @@
+.feature{
+    display: flex;
+}
+.feature div{
+    display: flex;
+    flex-direction: column;
+    padding: 0 1.5rem;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.feature h5{
+    color: #FFCE6D;
+    font-size: 3rem;
+}
+.feature p{
+    color: #FFFFFC;
+    font-size: 1.1rem;
+}
