@@ -1,9 +1,9 @@
 import React from 'react'
 import './style.css'
 
-function Button() {
+function Button({title='Read more'}) {
   return (
-    <button className='readBut'>Read more</button>
+    <button className='readBut'>{title}</button>
   )
 }
 
