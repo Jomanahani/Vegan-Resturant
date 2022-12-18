@@ -1,0 +1,31 @@
+.meal{
+    display: flex;
+    align-items:center;
+    color: #fff;
+    margin: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+.meal img{
+    padding: 0 1rem;
+}
+.meal div{
+    padding: 0.5rem;
+    width: 14rem;
+}
+.meal div h5{
+    padding: 0.5rem 0;
+    font-size: 1rem;
+}
+.meal div  p{
+    font-size: 0.8rem   ;
+}
+.meal hr{
+    width: 5rem;
+    border: none;
+    border-bottom: 2px  solid #FFCE6D;
+    margin: 0 0.5rem;
+}
+.price{
+    font-weight: 700;
+    color: #FFCE6D;
+}
