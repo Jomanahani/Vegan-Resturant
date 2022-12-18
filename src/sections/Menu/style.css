@@ -1,16 +1,6 @@
-.menu h3{
-    text-align: center;
-    font-family: 'Dancing Script', cursive;
-    color: #FFCE6D;
-    font-size: 2.2rem;
-    padding-top: 2rem;
-}
-.menu h4{
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    color: #fff;
-    font-size: 2rem;
-    padding-top: 0.5rem;
+.menu{
+        text-align: center;
+        padding: 3rem 0;
 }
 .menuContainer{
     display: flex;
