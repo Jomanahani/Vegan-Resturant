@@ -6,6 +6,7 @@ import Menu from "../sections/Menu";
 import Discount from '../sections/Discount'
 import Ingredients from '../sections/Ingredients/index'
 import Features from '../sections/Features/index'
+import Reviews from '../sections/Reviews/index'
 import './home.css'
 class HomePage extends React.Component {
     render() {
@@ -19,6 +20,7 @@ class HomePage extends React.Component {
           <Discount />
           <Ingredients />
           <Features />
+          <Reviews />
           </main>         
         </div>
       );

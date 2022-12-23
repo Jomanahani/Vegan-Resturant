@@ -1,0 +1,11 @@
+.reviews{
+    text-align: center;
+    padding: 5rem 0;
+}
+.comments{
+    display: flex;
+    overflow-x: hidden;
+    margin: 0rem auto;
+    margin-top: 2rem;
+    justify-content: center;
+}
