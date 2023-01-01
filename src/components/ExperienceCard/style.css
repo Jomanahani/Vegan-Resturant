@@ -1,0 +1,27 @@
+.ExperienceCard{
+    width: 25.7rem;
+}
+
+.revrse{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.ExperienceCard>div{
+    background-color: rgba(16, 20, 24, 0.7);
+    color: white;
+    padding: 2rem 2.5rem;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ExperienceCard h4{
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    /* padding: 1rem; */
+}
+
+.ExperienceCard p{
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 1.5rem 0;
+}
