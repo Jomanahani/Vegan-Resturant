@@ -1,0 +1,8 @@
+.blogs{
+    text-align: center;
+}
+.expContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem;
+}
