@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 
 import email2 from '../../assets/email2.png'
-import Button from "../Button";
 import "./style.css";
 
 export default class Form extends Component {
