@@ -14,7 +14,7 @@ export default class Blogs extends Component {
     return (
       <div className="blogs">
         <Title title="Blogs" supTitle="words from our food lovers" />
-        <di className='expContainer'>
+        <div className='expContainer'>
           <ExperienceCard
             mealImg={rice}
             commint="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sollicitudin "
@@ -28,7 +28,7 @@ export default class Blogs extends Component {
             mealImg={cheseCake}
             commint="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sollicitudin "
           />
-        </di>
+        </div>
       </div>
     );
   }
